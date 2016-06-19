@@ -1,4 +1,4 @@
-# Vokter Client in Java
+# Vokter Client in Jersey2
 
 This is an example client in Jersey2 that interoperates with Vokter using REST calls. It implements three simple REST methods, a mandatory POST ("/rest/notification") that receives Vokter detected differences for watched pages, and two optional GETs that allow the user to interact with Vokter using the browser's address bar. Notifications are simply printed on the console when received.
 
